@@ -1,0 +1,27 @@
+body {
+    background-image: url(https://www.tacind.com/wp-content/uploads/2021/06/AdobeStock_247009476-1-scaled.jpeg);
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 1%;
+}
+form input {
+    margin: 1rem;
+}
+.opac {
+    background-color: rgb(199, 204, 209);
+}
+nav {
+    margin-bottom: 1rem;
+}
+.title {
+    color: beige;
+    text-shadow: 2px 2px 2px black;
+}
+table a {
+    color: white;
+}
+.remove {
+    color: rgb(255, 54, 54) ;
+    text-decoration: none;
+}
